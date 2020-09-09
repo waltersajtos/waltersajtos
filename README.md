@@ -37,7 +37,7 @@ Welcome to my page! </br> I'm Walter, Fullstack developer and Software Engineeri
   
 - 🔭 I’m currently working on [Family Sync](https://github.com/waltersajtos/FamilySync/) and school
 - 🌱 I’m currently learning Typescript and Angular
-- 📫 How to reach me: The contact form on my website:[https://waltersajtos.com](https://waltersajtos.com) or github
+- 📫 How to reach me: The contact form on my website: [https://waltersajtos.com](https://waltersajtos.com) or github
 
 # Github stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=waltersajtos)](https://github.com/anuraghazra/github-readme-stats)
