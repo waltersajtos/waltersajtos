@@ -45,6 +45,7 @@ Welcome to my page! </br> I'm Walter, Fullstack developer and Software Engineeri
 - 📫 How to reach me: The contact form on my website: [https://waltersajtos.com](https://waltersajtos.com) or github
 
 # Github stats
+<div style="display: flex, flex-direction: row">
 <img alt="Github Stats" align="left" width="auto" src="https://github-readme-stats.vercel.app/api?username=waltersajtos"/>
 <img alt="Most used languages" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waltersajtos&layout=compact&hide=html" />
-
+</div
